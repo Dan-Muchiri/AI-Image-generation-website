@@ -6,3 +6,8 @@
     box-sizing: border-box;
     font-family: 'Roboto Condensed', sans-serif;
 }
+
+.image-generator {
+    height: 40vh;
+    background: url('images/bg.jpg');
+}
